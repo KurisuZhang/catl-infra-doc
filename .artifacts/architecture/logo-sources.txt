@@ -1,0 +1,2 @@
+NVIDIA: https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/nvidia-logo-horz.svg
+Ascend: https://www.hiascend.com/_static3/logo1.BQ2XZIjU.svg
