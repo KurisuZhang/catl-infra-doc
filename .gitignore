@@ -1,0 +1,9 @@
+# macOS metadata and temporary files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+.TemporaryItems/
+.fseventsd/
